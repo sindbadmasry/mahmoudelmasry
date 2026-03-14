@@ -1,7 +1,7 @@
 {
-  "name": "STEP",
-  "short_name": "STEP",
-  "description": "تطبيق STEP لإدارة المخزن والصيانة والمحافظ",
+  "name": "2M",
+  "short_name": "2M",
+  "description": " 2M  لإدارة المخزن والصيانة والمحافظ",
   "start_url": "https://sindbadmasry.github.io/yahiaStore/",
   "display": "standalone",
   "background_color": "#ffffff",
